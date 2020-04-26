@@ -1,0 +1,3 @@
+#!/bin/bash
+cd $HOME/LTH
+python2 lth.py

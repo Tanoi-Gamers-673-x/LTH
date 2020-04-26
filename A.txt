@@ -1,0 +1,3 @@
+
+:Step use
+$python2 androbug.py -f ชื่อไฟล์ apk ที่จะแฮก -o โฟลเดอร์ที่จะเก็บข้อมูล
